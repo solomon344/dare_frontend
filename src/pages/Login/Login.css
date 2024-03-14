@@ -1,0 +1,6 @@
+#side1{
+    background:  url('../../assets/blob.svg') no-repeat pink;
+    background-size: 65%;
+    background-position-x: left;
+    background-position-y: center;
+}
